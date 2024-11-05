@@ -1,0 +1,5 @@
+torch
+efficientnet_pytorch
+torchvision
+openai
+matplotlib
